@@ -26,9 +26,9 @@ You can place **OpenCamera_wgt.py** in the **imagepy-master\imagepy\menus\Plugin
 In addition, place the CAMERA.png in **imagepy-master\imagepy\data**
 The images saved by this plug-in are stored in the **imagepy-master\imagepy\data** folder by default, and the file format is **%Y-%m-%d-%H-%m-%s.jpg**
 
-![image](https://github.com/HITWenQLi/Imagepy-OpenCamera/tree/main/image/C1.PNG)
+![note](https://github.com/HITWenQLi/Imagepy-OpenCamera/tree/main/image/C1.PNG)
 
-![image](https://github.com/HITWenQLi/Imagepy-OpenCamera/tree/main/image/C2.PNG)
+![note](https://github.com/HITWenQLi/Imagepy-OpenCamera/tree/main/image/C2.PNG)
 
 ## Reference
 [1] Imagepy https://github.com/Image-Py/imagepy
