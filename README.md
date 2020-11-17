@@ -30,9 +30,9 @@ The images saved by this plug-in are stored in the **imagepy-master\imagepy\data
 
 The file format is **%Y-%m-%d-%H-%m-%s.jpg**  
 
-![image1](https://github.com/HITWenQLi/Imagepy-OpenCamera/tree/main/image/C1.PNG)  
+![image1](https://github.com/HITWenQLi/Imagepy-OpenCamera/tree/main/image/C1.jpg)  
 
-![image2](https://github.com/HITWenQLi/Imagepy-OpenCamera/tree/main/image/C2.PNG)  
+![image2](https://github.com/HITWenQLi/Imagepy-OpenCamera/tree/main/image/C2.jpg)  
 
 ## Reference
 [1] Imagepy https://github.com/Image-Py/imagepy  
