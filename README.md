@@ -22,7 +22,7 @@ The module is based on **imagepy**, which you can find in **Reference**.
   Video recording (incomplete)  
 
 ## How to use it  
-You can place **OpenCamera_wgt.py** in the **imagepy-master\imagepy\menus\Plugins\Manager** and run **imagepy-master\imagepy\main.py**（__main__.py）  
+You can place **OpenCamera_wgt.py** in the **imagepy-master\imagepy\menus\Plugins\Manager** and run **imagepy-master\imagepy\main.py**
 
 In addition, place the CAMERA.png in **imagepy-master\imagepy\data**  
 
